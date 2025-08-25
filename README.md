@@ -31,8 +31,9 @@ The multiplexed ID of each run is provided in the Supplementary Table 8 of the m
   
 - `tumor-model-analysis/`: **directory with example code for analysis and generation of selected figures**. A description of each example code is provided in the directory.
 
-### Other files  
-- `python_packages.txt`: list of packages and versions used for the analysis in the manuscript. Different versions may have been used in the current notebooks.
+### Other files
+- `Matched Model_Tumor for Sequencing.xlsx`: spreadsheet collecting sample information for snRNA-seq data. The Sampleshet_for_Analysis sheet serves as the reference table and its columns are thoroughly described in the README sheet.  
+- `python_packages.txt`: list of packages and versions used for the analysis in the manuscript. (Packages versions used to run the current notebooks may differ.)
     Note on pyviper: the equivalent version can be installed via: 
   ```
   pip install viper-in-python==1.0.9
