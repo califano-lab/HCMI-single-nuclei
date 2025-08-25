@@ -1,6 +1,6 @@
 # HCMI - Demo codes for the analysis of single-nuclei RNA-seq samples
 
-This directory provides example codes for the analysis of snRNA-seq samples within HCMI. The main analytical steps are highlighted in the following vignette: 
+This directory provides example codes for the analysis of snRNA-seq samples within HCMI and Figures generation. The main analytical steps are highlighted in the following vignette: 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2eaf8982-9818-482b-a016-57adcf11af16">
@@ -27,13 +27,11 @@ The multiplexed ID of each run is provided in the Supplementary Table 8 of the m
 ### Structure
 - `funcs/`: custom functions used in the notebooks
   
-- `markers/`: directory containing cohort-specific markers
+- `markers/`: directory containing cohort-specific markers used in figures generation
   
 - `tumor-model-analysis/`: **directory with example code for analysis and generation of selected figures**. A description of each example code is provided in the directory.
 
-### Other files
-- `Matched Model_Tumor for Sequencing.xlsx`: spreadsheet collecting sample information for snRNA-seq data. The Sampleshet_for_Analysis sheet serves as the reference table and is thoroughly described in the README sheet.
-  
+### Other files  
 - `python_packages.txt`: list of packages and versions used for the analysis in the manuscript. Different versions may have been used in the current notebooks.
     Note on pyviper: the equivalent version can be installed via: 
   ```
