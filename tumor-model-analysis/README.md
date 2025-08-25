@@ -13,7 +13,7 @@ This folder contains Jupyter notebooks with demo codes for generating several fi
 
 - `Extended-Data-Figure-6b.ipynb`, `Extended-Data-Figure-7c.ipynb` and `Extended-Data-Figure-8a.ipynb`: compute differential pathway enrichment analysis and corresponding visualizations for Glioblastoma (**Extended Data Figure 6b**), Pancreatic (**Extended Data Figure 7c**) and Colorectal Cancer (**Extended Data Figure 8a**).
 
-- `Extended-Data-Figure-7d.ipynb`: a demonstration notebook highlighting different cellular populations within the PAAD tumor microenvironment as shown in **Extended Data Figure 7d**
+- `Extended-Data-Figure-7d.ipynb`: a demonstration notebook highlighting different cellular populations within the PAAD tumor microenvironment.
 
 - `Extended-Data-Figure-8b-8c.ipynb`: illustrates epithelial state annotation in COAD pairs using gene expression signatures from [Joanito et al., 2022](https://www.nature.com/articles/s41588-022-01100-4), and outlines the generation of **Extended Data Fig. 8b** and **8c**.
 
