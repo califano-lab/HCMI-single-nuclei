@@ -6,7 +6,7 @@ This directory provides example codes for the analysis of snRNA-seq samples with
   <img src="https://github.com/user-attachments/assets/2eaf8982-9818-482b-a016-57adcf11af16">
 </p>
 
-The data used in these examples are available on [Figshare](https://figshare.com/account/articles/28410485)
+The data used in these examples are available on [Figshare](https://doi.org/10.6084/m9.figshare.28410485)
 
 ### Samples demultiplexing
 Sample-specific profiles processed in the same 10X Chromium flow cell were demultiplexed using [demuxlet](https://github.com/statgen/demuxlet):
